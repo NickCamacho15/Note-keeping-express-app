@@ -1,6 +1,6 @@
 # Note-keeping-express-app
 Note-taking application where user can write and save notes.
 
+<img width="1440" alt="Screen Shot 2023-07-20 at 3 35 39 PM" src="https://github.com/NickCamacho15/Note-keeping-express-app/assets/118080701/272c5af1-5f7a-4e6e-9384-2616376bbd2d">
 
-![Screen Shot 2023-07-20 at 3 32 42 PM (2)](https://github.com/NickCamacho15/Note-keeping-express-app/assets/118080701/7d312d67-8c82-4211-9daa-7861a8452ee4)
-![Uploading Screen Shot 2023-07-20 at 3.32.42 PM.png…]()
+
